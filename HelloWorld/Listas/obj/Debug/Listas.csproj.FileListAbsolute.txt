@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\bin\Debug\Listas.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\bin\Debug\Listas.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\bin\Debug\Listas.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\obj\Debug\Listas.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Listas\obj\Debug\Listas.pdb

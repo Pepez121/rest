@@ -1,0 +1,37 @@
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\csc.exe
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\vbc.exe
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\VBCSCompiler.exe
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\MVC Demo.dll.config
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\MVC Demo.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\MVC Demo.pdb
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Helpers.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Mvc.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Razor.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.Deployment.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.Razor.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Razor.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.Deployment.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Webpages.Razor.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Helpers.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\bin\System.Web.Mvc.xml
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\obj\Debug\MVC Demo.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\obj\Debug\MVC Demo.dll
+c:\users\training\documents\visual studio 2015\Projects\AcademyMVC\MVC Demo\obj\Debug\MVC Demo.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\AcademyMVC\MVC Demo\bin\EntityFramework.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\AcademyMVC\MVC Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\AcademyMVC\MVC Demo\bin\EntityFramework.xml
+C:\Users\Training\Documents\Visual Studio 2015\Projects\AcademyMVC\MVC Demo\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.data", "Market.data\Market.data.csproj", "{E7A26912-8289-4D87-8ECA-2ADDB709D71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketConsole", "MarketConsole\MarketConsole.csproj", "{E0EB8127-C6F1-4AE5-A67D-7FEF070B17FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A26912-8289-4D87-8ECA-2ADDB709D71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A26912-8289-4D87-8ECA-2ADDB709D71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A26912-8289-4D87-8ECA-2ADDB709D71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A26912-8289-4D87-8ECA-2ADDB709D71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EB8127-C6F1-4AE5-A67D-7FEF070B17FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EB8127-C6F1-4AE5-A67D-7FEF070B17FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EB8127-C6F1-4AE5-A67D-7FEF070B17FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EB8127-C6F1-4AE5-A67D-7FEF070B17FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

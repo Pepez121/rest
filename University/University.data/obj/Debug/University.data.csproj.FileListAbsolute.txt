@@ -1,0 +1,17 @@
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\University.data.dll.config
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\University.data.dll
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\University.data.pdb
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\EntityFramework.dll
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\EntityFramework.xml
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.dll
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.pdb
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.Initial.resources
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.csproj.GenerateResource.Cache
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.AddEnrollmenttoStudent.resources
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.UpdateEmployeeCategoryFK.resources
+c:\users\training\documents\visual studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.UpdateEmployeeNavigationProperties.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.AddStringlength.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\University.data\obj\Debug\University.data.Migrations.UpdateOnModelCreatingforOfficeandEmployeeCategory.resources

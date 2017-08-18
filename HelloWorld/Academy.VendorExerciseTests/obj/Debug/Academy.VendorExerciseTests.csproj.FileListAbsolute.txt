@@ -1,0 +1,8 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\bin\Debug\Academy.VendorExerciseTests.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\bin\Debug\Academy.VendorExerciseTests.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\bin\Debug\Academy.VendorExercise.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\bin\Debug\Academy.VendorExercise.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\obj\Debug\Academy.VendorExerciseTests.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\obj\Debug\Academy.VendorExerciseTests.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExerciseTests\obj\Debug\Academy.VendorExerciseTests.pdb

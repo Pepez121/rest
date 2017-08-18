@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\bin\Debug\PersonaAbstracta.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\bin\Debug\PersonaAbstracta.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\bin\Debug\PersonaAbstracta.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\obj\Debug\PersonaAbstracta.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\obj\Debug\PersonaAbstracta.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\PersonaAbstracta\obj\Debug\PersonaAbstracta.pdb

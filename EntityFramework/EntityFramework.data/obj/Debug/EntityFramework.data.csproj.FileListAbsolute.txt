@@ -1,0 +1,17 @@
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.data.dll.config
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.data.dll
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.data.pdb
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.dll
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.xml
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.dll
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.pdb
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.Initial.resources
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.csproj.GenerateResource.Cache
+c:\users\training\documents\visual studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.AddHours.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.AddHours1.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.AddCourseStudent.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.ManytomanyDataAnnotations.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\EntityFramework\EntityFramework.data\obj\Debug\EntityFramework.data.Migrations.ManytomanyFluentAPI.resources

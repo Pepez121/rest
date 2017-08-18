@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\bin\Debug\Academy.VendorExercise.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\bin\Debug\Academy.VendorExercise.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\bin\Debug\Academy.VendorExercise.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\obj\Debug\Academy.VendorExercise.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\obj\Debug\Academy.VendorExercise.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Academy.VendorExercise\obj\Debug\Academy.VendorExercise.pdb

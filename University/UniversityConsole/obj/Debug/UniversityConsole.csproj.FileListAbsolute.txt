@@ -1,0 +1,12 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\UniversityConsole.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\obj\Debug\UniversityConsole.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\UniversityConsole.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\UniversityConsole.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\University.data.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\EntityFramework.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\University.data.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\EntityFramework.xml
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\obj\Debug\UniversityConsole.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\obj\Debug\UniversityConsole.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Training\Documents\Visual Studio 2015\Projects\University\UniversityConsole\bin\Debug\EntityFramework.SqlServer.xml

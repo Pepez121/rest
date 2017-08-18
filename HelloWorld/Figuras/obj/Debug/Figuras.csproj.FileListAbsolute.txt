@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\bin\Debug\Figuras.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\obj\Debug\Figuras.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\obj\Debug\Figuras.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Figuras\obj\Debug\Figuras.pdb

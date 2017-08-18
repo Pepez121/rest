@@ -1,0 +1,6 @@
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\bin\Debug\AcademyExam.exe.config
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\bin\Debug\AcademyExam.exe
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\bin\Debug\AcademyExam.pdb
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\obj\Debug\AcademyExam.csprojResolveAssemblyReference.cache
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\obj\Debug\AcademyExam.exe
+c:\users\training\documents\visual studio 2015\Projects\AcademyExam\AcademyExam\obj\Debug\AcademyExam.pdb

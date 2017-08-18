@@ -1,0 +1,9 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\bin\Debug\Miles.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\bin\Debug\Miles.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\bin\Debug\Miles.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.Miles.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.Properties.Resources.resources
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.csproj.GenerateResource.Cache
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Miles\obj\Debug\Miles.pdb

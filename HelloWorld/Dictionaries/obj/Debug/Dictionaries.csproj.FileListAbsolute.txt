@@ -1,0 +1,5 @@
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Training\Documents\Visual Studio 2015\Projects\HelloWorld\Dictionaries\obj\Debug\Dictionaries.pdb
